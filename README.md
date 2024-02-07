@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there, i'm Malik 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,react,nextjs,prisma,tailwind)](https://skillicons.dev)
