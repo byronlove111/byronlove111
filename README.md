@@ -2,5 +2,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,typescript,react,nextjs,prisma,tailwind)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maliksynt&hide_progress=true&theme=github_dark&hide_border=false&&title_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maliksynt&hide_progress=true&theme=github_dark&title_color=ffffff&border_color=848d97)
 
