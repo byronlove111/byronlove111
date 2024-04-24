@@ -1,6 +1,6 @@
 ### HELLO WORLD, I'M MALIK SYNT 👋
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,prisma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,prisma,tailwind,discord)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,ableton,blender)](https://skillicons.dev)
 
